@@ -8,7 +8,7 @@
 * _html_
 * _css_
 * _C#_
-* _ASP.Net_
+* _ASP.Net MVC_
 * _.Net 7_
 * _Entity Framework Core_
 * _Toastr_
